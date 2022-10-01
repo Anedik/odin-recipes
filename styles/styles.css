@@ -1,0 +1,77 @@
+body{
+    background-color: #552512;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    
+}
+
+h2{
+    margin-top: 3em;
+}
+
+.main-img {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+
+ul, ol {
+    margin: 0 auto;
+}
+
+ul {
+    width: 200px;
+    height: auto;
+}
+
+ol {
+    width: max-content;
+    height: auto;
+    max-width: 300px;
+    height: auto;
+}
+
+ol li{
+    margin: .5em 0;
+}
+
+
+.description {
+    width: 65vw;
+    height: auto;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+a {
+    color: bisque;
+    font-size: 1.5rem;
+}
+
+.volver {
+    text-align: center;
+    margin: 10em auto 3em;
+}
+
+.lista-recetas {
+    margin: 3em auto;
+    text-align: center;
+    width: max-content;
+    height: auto;
+}
+
+.lista-recetas li{
+    margin: 1.5em auto;
+    list-style: none;
+}
